@@ -2,15 +2,8 @@
 <h2> this is to test show anil   </h2>
 <h3> this is the best project is with git -- jenkins - - tomcatserver have learned </h3>
 
-this is to test by sreekanth  
-this is to test by sreekanth  
+<h4> this is to test by sreekanth   </h4>
+<h5> this is to test by sreekanth  </h5>
 
-this is to test  by sreekanth
+<h6> Slack and jenkins intigration is setup and working now </h6>
 
-this is to test by anil
-
-this is to test by anil
-this is to test by anil
-this is to test by anil
-this is to test by anil
-this is to test by anil
